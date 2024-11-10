@@ -91,7 +91,7 @@ function mostrarOpcoes() {
     mensagem += `\nEndereço: ${endereco}`;
   
     // Substitua este número pelo número do WhatsApp real
-    const whatsappURL = `https://wa.me/5531999999999?text=${encodeURIComponent(mensagem)}`;
+    const whatsappURL = `https://wa.me/5531992842106?text=${encodeURIComponent(mensagem)}`;
     window.open(whatsappURL, '_blank');
   }
   
